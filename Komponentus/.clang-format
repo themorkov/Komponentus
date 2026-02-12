@@ -1,0 +1,8 @@
+#Файл форматирования векторов, так как они были созданы с помошью макроса из колонок в excel
+BasedOnStyle: LLVM
+ColumnLimit: 150
+Cpp11BracedListStyle: false
+BinPackArguments: true
+BinPackParameters: true
+BreakBeforeBraces: Attach
+AllowShortBlocksOnASingleLine: Always

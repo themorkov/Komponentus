@@ -1,0 +1,10 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Folder Name="/Элементы решения/">
+    <File Path="READMI.md" />
+  </Folder>
+  <Project Path="Komponentus/Komponentus.vcxproj" Id="8a938b62-f41e-420a-97c6-8cf186845ccd" />
+</Solution>
