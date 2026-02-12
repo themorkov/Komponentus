@@ -40,6 +40,5 @@ Debeer, Kansai Paint, Cardea, Rock Paint, KCC, Maxmeyer, Glasurit 55 line.
 ---
 
 ## Бинарные файлы для Windows
-Для работы с программой без установки "C++ 17" скачайте .exe файл для своей системы по адресу:
-- x86 - Komponentus\Release\Komponentus.exe
-- x64 - Komponentus\x64\Release\omponentus.exe
+Для работы с программой без установки "C++ 17" скачайте .exe файл по адресу:
+Komponentus\x64\Release\omponentus.exe
